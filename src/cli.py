@@ -49,7 +49,7 @@ def parse_args():
 
 
 def main():
-    print("Ding Dong, who's there?\nThe IRS\nOh Shit\n")
+    print("Ding Dong, who's there?\nMerge Conflict\nOh no... not again\n")
     args = parse_args()
     args.func(args)
 
